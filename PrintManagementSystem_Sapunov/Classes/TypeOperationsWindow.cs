@@ -15,7 +15,7 @@ namespace PrintManagementSystem_Sapunov.Classes
         public int format { get; set; }
         public int side { get; set; }
         public bool color { get; set; }
-        public bool occypancy { get; set; }
+        public bool occupancy { get; set; }
         public int count { get; set; }
         public float price { get; set; }
     }
